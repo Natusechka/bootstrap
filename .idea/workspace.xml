@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82d12722-f4a2-4e13-af92-4b1f614df6db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bootstrap" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bxl3pTpRZUYnUXwL3K7pZ9sItr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Natalia\Desktop\bootstrap\js" />
+      <recent name="C:\Users\Natalia\Desktop\bootstrap\css" />
+      <recent name="C:\Users\Natalia\Desktop\bootstrap\fonts" />
+      <recent name="C:\Users\Natalia\Desktop\bootstrap" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82d12722-f4a2-4e13-af92-4b1f614df6db" name="Default Changelist" comment="" />
+      <created>1589581428360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589581428360</updated>
+      <workItem from="1589581429592" duration="2960000" />
+      <workItem from="1589616877501" duration="9375000" />
+      <workItem from="1589990111612" duration="6231000" />
+      <workItem from="1590000558054" duration="18286000" />
+      <workItem from="1590163408308" duration="19707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="227" key="EditFileWatcherDialog" timestamp="1589581853259">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="466" y="227" key="EditFileWatcherDialog/62.0.1538.900@62.0.1538.900" timestamp="1589581853259" />
+    <state x="653" y="365" key="Github.CreateGistDialog" timestamp="1590190647022">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="653" y="365" key="Github.CreateGistDialog/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1590190647022" />
+    <state x="526" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1590163424181">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="526" y="272" key="com.intellij.ide.util.TipDialog/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1590163424181" />
+  </component>
+</project>
