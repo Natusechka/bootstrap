@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82d12722-f4a2-4e13-af92-4b1f614df6db" name="Default Changelist" comment="" />
+    <list default="true" id="82d12722-f4a2-4e13-af92-4b1f614df6db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/ddd9ddb7d0c80af5fbb1562fb4ea61031f20520e/style_preproc.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/ddd9ddb7d0c80af5fbb1562fb4ea61031f20520e/style_preproc.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style_preproc.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_preproc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style_preproc.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_preproc.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style_preproc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_preproc.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +32,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bxl3pTpRZUYnUXwL3K7pZ9sItr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,6 +45,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
@@ -61,6 +73,7 @@
       <workItem from="1589990111612" duration="6231000" />
       <workItem from="1590000558054" duration="18286000" />
       <workItem from="1590163408308" duration="19707000" />
+      <workItem from="1590214433919" duration="1224000" />
     </task>
     <servers />
   </component>

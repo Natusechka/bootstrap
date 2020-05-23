@@ -44,6 +44,9 @@ $main_color:white;
 .navbar-brand{
   height: auto;
 }
+.navbar-collapse{
+  border: none;
+}
 .navbar-toggle{
   border: none;
 }
@@ -196,7 +199,7 @@ $main_color:white;
   background-color: white;
 }
 .navbar-header{
-  padding: 31px 0;
+  padding: 23px 0;
   background-color: $main_color;
 }
 .team {
